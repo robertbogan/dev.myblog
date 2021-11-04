@@ -1,0 +1,28 @@
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
+side-links:
+  - title: LinkedIn
+    children:
+      - title: "View my profile or contact me"
+        url: https://www.linkedin.com/in/robo-ops/
+  - title: GitHub Repos
+    children:
+      - title: "Terraform Training"
+        url: https://github.com/robert-bogan/TerraformTraining
+      - title: "Security Playbook"
+        url: https://github.com/robert-bogan/security-champions-playbook
+      - title: "Landing Zones Starter"
+        url: https://github.com/robert-bogan/caf-terraform-landingzones-starter
+      - title: "Landing Zones Full"
+        url: https://github.com/robert-bogan/caf-terraform-landingzones
+  # - title: Azure DevOps
+  #   children:
+  #     - title: "Static Site CI/CD Pipeline"
+  #       url: https://dev.azure.com/robertbogan/static_site

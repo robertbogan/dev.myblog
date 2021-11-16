@@ -1,4 +1,4 @@
-# MyBlog by Robert Bogan
+# Robert Bogan's Blog
 
 Blog pages for the record.
 

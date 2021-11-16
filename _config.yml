@@ -28,7 +28,7 @@ logo: "/assets/images/88x88.png"
 description: >- # this means to ignore newlines until "baseurl:"
   A tech blog by Robert Bogan, Platform Engineer, Focused on Infrastructure as Code, DevOps, Scripting and Automation.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/robert-bogan/myblog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://robert-bogan.github.io/myblog/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  robert-bogan
 search: true

@@ -8,7 +8,7 @@ on:
   #   - cron: "0 0 * * *"
 
 env:
-  PAGES_REPO_NWO: git@github.com:robert-bogan/myblog.git
+  PAGES_REPO_NWO: robert-bogan/myblog.git
 
 jobs:
   github-pages:

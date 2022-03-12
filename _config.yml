@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Underdog Linkedin | A tech blog by Robert Bogan"
-masthead_title: "Underdog Linkedin"
+title: "The New Road | A tech blog by Robert Bogan"
+masthead_title: "The New Road"
 title_separator: "|"
 name: "Robert Bogan"
 email: info@robertbogan.com

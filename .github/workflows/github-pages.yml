@@ -7,6 +7,9 @@ on:
   # schedule:
   #   - cron: "0 0 * * *"
 
+env:
+  PAGES_REPO_NWO: https://github.com/robert-bogan/myblog.git
+
 jobs:
   github-pages:
     runs-on: ubuntu-latest

@@ -35,9 +35,6 @@ search: true
 
 # Build settings
 theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Outputting
 markdown: CommonMarkGhPages
@@ -86,6 +83,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
+  - jekyll-feed
   - jekyll-include-cache
 
 author:

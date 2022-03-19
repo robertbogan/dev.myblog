@@ -28,6 +28,10 @@ Thats about all there is in 2011, my memory now feels like digging out a relic w
 
 Nobody knows. Some of the comments from the IBM people around the time made me think that some people thought that AWS would never succeed. **Lesson 1** dont always believe what you hear.
 
+### Video Inbed test
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
 ## More from me
 
 Check out my [LinkedIn profile][linkedin-profile] for more info about me and my career, as well as my [GitHub][github-profile], where you'll find the personal projects I've been working on.

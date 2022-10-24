@@ -1,5 +1,5 @@
 ---
-title: "2011 AWS breaking out"
+title: "Becoming an AWS guy"
 categories:
   - blog
 tags:
@@ -27,10 +27,6 @@ Thats about all there is in 2011, my memory now feels like digging out a relic w
 ### The future
 
 Nobody knows. Some of the comments from the IBM people around the time made me think that some people thought that AWS would never succeed. **Lesson 1** dont always believe what you hear.
-
-### Video Inbed test
-
-{% include youtubePlayer.html id=page.youtubeId %}
 
 ## More from me
 

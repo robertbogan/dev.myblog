@@ -3,12 +3,9 @@ title: "2011 AWS breaking out"
 categories:
   - blog
 tags:
-  - aws;
+  - aws
   - update
 excerpt: "When AWS services could be counted on a single hand..."
-
-youtubeId: U8Cd_McCdow
-
 ---
 
 So one day I decided I would get into AWS and I just signed up for an account. I was living in Sydney and I was about to become a father for a second time.
@@ -41,5 +38,5 @@ Check out my [LinkedIn profile][linkedin-profile] for more info about me and my 
 
 If you have questions, feel free to drop me a message.
 
-[linkedin-profile]: https://www.linkedin.com/in/robo-ops/
+[linkedin-profile]: https://www.linkedin.com/in/robertbogan/
 [github-profile]:   https://github.com/robert-bogan

@@ -4,19 +4,17 @@ categories:
   - blog
 tags:
   - welcome
-  - opinion
-excerpt: "Id like to compare DevOps with the extreme sport of Freeride Mountain Biking"
+  - update
+excerpt: "This is my blog, where I hope to share the tech I'm passionate about, personal projects, as well as hints and tips from my experience..."
 ---
 
 I just watched the highlights from the 2022 Red Bull Rampage and can see a few analogies with what the riders are doing and what we do as Cloud DevOps Engineers
-
-<iframe width="1920" height="1080" src="https://www.youtube.com/embed/kf8_OjqQRVM" title="The Most Stylish Run of Red Bull Rampage 2021| Jaxson Riddle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Choose your line
 
 Which part of the line will you take?
 
-![DevOps Velocity](2022-11-12-extremely-devops/devops_trail.png)
+<iframe width="1920" height="1080" src="https://www.youtube.com/embed/kf8_OjqQRVM" title="The Most Stylish Run of Red Bull Rampage 2021| Jaxson Riddle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## More from me
 

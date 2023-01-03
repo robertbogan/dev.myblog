@@ -14,13 +14,13 @@ Over the years its been quite difficult not to get caught up in the whole "getti
 
 Most of my certificates appear in "Credly".
 
-![Credly Certs](./2023-01-03-qualifications-update/credly.jpg)
+![Credly Certs](2023-01-03-qualifications-update/credly.jpg)
 
 ## Acclaim
 
 "Acclaim" is also used for some of my certificates.
 
-![Acclaim Certs](./2023-01-03-qualifications-update/isqi.jpg)
+![Acclaim Certs](2023-01-03-qualifications-update/isqi.jpg)
 
 ## More from me
 

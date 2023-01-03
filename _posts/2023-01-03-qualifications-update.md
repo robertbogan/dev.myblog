@@ -16,11 +16,15 @@ Most of my certificates appear in "Credly".
 
 ![Credly Certs](2023-01-03-qualifications-update/credly.jpg)
 
+Here is a link to my [Credly Profile](https://www.credly.com/users/robert-bogan.a378524d/badges?sort=-state_updated_at&page=1)
+
 ## Acclaim
 
 "Acclaim" is also used for some of my certificates.
 
 ![Acclaim Certs](2023-01-03-qualifications-update/isqi.jpg)
+
+Here is a link to my [Acclaim Profile](https://skillshub.isqi.org/profile/robertpaulbogan602371/wallet)
 
 ## More from me
 

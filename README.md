@@ -6,4 +6,4 @@
 
 This is my current blog project..
 
-Please Note: [I stand with Ukraine](https://stand-with-ukraine.pp.ua/)
+[I stand with Ukraine](https://stand-with-ukraine.pp.ua/)

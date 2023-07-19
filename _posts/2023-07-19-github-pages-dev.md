@@ -5,10 +5,10 @@ categories:
 tags:
   - markdown
   - static-sites
-excerpt: "An option to solve differences in dependencies between local & remote jekyll environments for github pages "
+excerpt: "Setting up a local Jekyll Environment built in the same container environment used by GitHub on Kubernetes"
 ---
 
-## Setting up a local Jekyll Environment built in the same container environment used by GitHub on Kubernetes
+## An option to solve differences in dependencies between local & remote jekyll environments for github pages
 
 Creating a local Rancher environment for GitHub Pages site development involves leveraging Rancher to manage containers, which, in turn, allows you to create and manage Kubernetes clusters for running your GitHub Pages development environment. The process unfolds as follows:
 

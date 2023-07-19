@@ -1,11 +1,13 @@
 ---
-title: "Github Pages Development Efficiency"
+title: "Github Static Site development On Kubernetes"
 categories:
   - blog
 tags:
   - markdown
   - static-sites
-excerpt: "Setting up a local Jekyll Environment built in the same container environment used by GitHub on Kubernetes"
+  - kubernetes
+  - rancher
+excerpt: "Setting up a local Github Pages Jekyll Environment on local Kubernetes"
 ---
 
 ## An option to solve differences in dependencies between local & remote jekyll environments for github pages

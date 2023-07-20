@@ -36,7 +36,7 @@ encoding: UTF-8
 
 # Build settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Outputting
 markdown: CommonMarkGhPages
 commonmark:

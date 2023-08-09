@@ -11,7 +11,7 @@ side-links:
   - title: LinkedIn
     children:
       - title: "View my profile or contact me"
-        url: https://www.linkedin.com/in/robo-ops/
+        url: https://www.linkedin.com/in/robertbogan/
   - title: GitHub Repos
     children:
       - title: "Terraform Training"
